@@ -1,0 +1,53 @@
+
+#contact {
+  height: 40vh;
+  width: 100%;
+  background: #f0f0f0;
+  text-align: center;
+}
+
+.contact-details {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contact-details li {
+  padding-bottom: 10px;
+}
+
+.contact-info {
+  margin: 60px auto;
+}
+
+.social {
+  margin-top: 10px;
+}
+
+.social i {
+  font-size: 20px;
+}
+
+.social span {
+  padding: 10px;
+}
+
+.social .facebook i{
+  color: #3b5998;
+}
+.social .github i{
+  color: #333;
+}
+.social .instagram i{
+  color: #c32aa3;
+}
+
+.social .linkedin i{
+  color: #007bb5;
+}
+
+.social.twitter i{
+  color: #1da1f2;
+}
+
+

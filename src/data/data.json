@@ -1,0 +1,133 @@
+{
+    "basics": {
+        "name": "Tafadzwa Makuyana",
+        "nick":"Tafadzwa",
+        "label": "Front End Developer / Web Developer / Wordpress ",
+        "desc":"I am a developer from Zimbabwe and currently living in Thailand. I enjoy building everything form small business sites to rich interactive web apps.",
+        "prop":"If you are a business seeking a web presence or an emploer looking to hire, you can get in touch with me",
+        "picture": "<PHOTO>",
+        "email": "tafadzwa345@hotmail.com",
+        "phone": "+66 (0) 9 723-80270",
+        "website": "tmkuyana.me",
+        "mission": "My mission is to ensure best relationship with my clients, both during and after their goals have been met. I keep this in mind whether designing print media, creating web and mobile applications, producing multimedia or building websites.",
+        "summary": "A self-motivated IT professional with huge knowledge and proficiency in JavaScript, HTML , CSS, and mobile responsive web development, as well as strong skills and ability in writing clean and efficient code.",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand"
+        },
+        "profiles": [{
+                "name": "linkedin",
+                "link": "https://www.linkedin.com",
+                "class": "fab fa-linkedin"
+            },
+            {
+                "name": "facebook",
+                "link": "https://www.facebook.com",
+                "class": "fab fa-facebook-f"
+            },
+            {
+                "name": "twitter",
+                "link": "https://www.twitter.com",
+                "class": "fab fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com",
+                "class": "fab fa-github"
+            }
+        ],
+        "cloud": "AWS, Microsoft Azure",
+        "tools": "FileZilla, Git,  PyCharm, PHP Storm,  Visual Studio Code, Adobe CC, Microsoft Office"
+    },
+    "work": [{
+        "company": "<COMPANY_NAME>",
+        "position": "<POSITION>",
+        "website": "<COMPANY_WEBSITE>",
+        "startDate": "<START_DATE>",
+        "endDate": "<END_DATE>",
+        "summary": "<SUMMARY>",
+        "highlights": [
+            "<HIGHTLIGHT_1>",
+            "<HIGHTLIGHT_2>",
+            "<HIGHTLIGHT_3>"
+        ]
+    }],
+    "education": [{
+        "institution": "Stamford International University",
+        "area": "Bachelors in Information Technology",
+        "studyType": "Minor in Software Engineering",
+        "endDate": "2019"
+    }],
+    "awards": [{
+            "title": "2nd Place, Stamford International University Bangkok Tech Slam",
+            "date": "8th - 9th September 2017",
+            "awarder": "2nd Prize of Contribution To Society",
+            "summary": "A web application to access university resources and links to other application that the university uses"
+        },
+        {
+            "title": "IEEE SS12 ASIA 2018 Region 10",
+            "date": "August - September 2018",
+            "awarder": "2nd Runner Up",
+            "summary": "Dr. Eamonn, Under the theme of Healthcare, my team and I came up with an idea to build a mobile application (Android) to serve as a health station for anyone to use. The applications has sections for everyone. Medical Profile: to store all medical information, Emergencey Broadcast: to alert nearest hospitals of distress, Hospital Finder: to search for medical institutes near your location; botht home and away, an AI bot: to intereact with and acquire general medical information, Vaccination page: to fund and get funding for low income and remote locations, a Pill CAddy: to help manage yours and your loved ones medication, A Medical Suggestions section: to look up common issues and remedies and medical notifications with helpful tops and advice  "
+        }
+    ],
+    "projects": [{
+            "name": "Parizian Jewellers",
+            "category": "Freelancer",
+            "website": "http://www.parizianjewellers.com.au",
+            "summary": "Working as a frontend developer, my role and tasks involved building the frontend of the application, photoediting to meet google standards and improve load speed for the website. Design and develop the application to be able to display the images from all the different categories and meet the client's requirements.",
+            "tech": "PHP, jQuery, Bootstrap, Json",
+            "photoURL": "https://firebasestorage.googleapis.com/v0/b/portfolio-154db.appspot.com/o/parizian.png?alt=media&token=827fcd82-36eb-4ac5-a53c-5a28a0dbf260",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            }
+        },
+        {
+            "name": "LTHuddon Design",
+            "category": "Freelancer",
+            "website": "http://www.lthuddondesign.com",
+            "summary": "Working as a IT Technician, my role and tasks involved building the brand website, working with Adobe Illustrator and Adobe photoshop assisting the lead Jewelry Designer in turning pencil design to computer version, photography and videography of designs and tutorials on jewelry design. Other tasks involve, setting up socialmedia platforms and setting up email marketing tools such as MailChimp ",
+            "tech": "Wordpress, Adobe CC Suite",
+            "photoURL": "https://firebasestorage.googleapis.com/v0/b/portfolio-154db.appspot.com/o/lthuddon.png?alt=media&token=25b2d5af-17bd-42ec-b93a-d9ecdfc94cda",
+            "image": {
+                "modal": "<MODAL_IMAGE>",
+                "thumb": "<THUMBNAIL_IMAGE>"
+            }
+        }
+
+
+
+    ],
+    "skills": [{
+            "title": "Programming Languages",
+            "description": "Worked primarily with JavaScript, PHP, C#, with frameworks such as Express.js, React.js, Laravel",
+            "skillTitle": "Languages",
+            "skillDetails": ["Javascript", "PHP", "C#", "Java", "Python"]
+        },
+        {
+            "title": "Database Systems",
+            "description": "Experienced in both SQL and NoSQL, having worked in companies making use of DynamoDB, MongoDB, PostgreSQL and Aurora RDS flavour of MySQL, with personal further projects utilizing SQL and MondoDB using Mongo Lab.",
+            "skillTitle": "Languages",
+            "skillDetails": ["SQL", "MongoDB"]
+
+        },
+        {
+            "title": "Cloud Computing",
+            "description": "Experienced in using cloud computing platform such as AWS and Microsoft Azure",
+            "skillTitle": "Platforms",
+            "skillDetails": ["AWS", "IBM Cloud"]
+
+        }
+
+    ],
+    "languages": [{
+        "name": "English"
+    }],
+    "references": [{
+        "name": "<REFERENCE_NAME>",
+        "position": "<POSITION>",
+        "company": "<COMPANY>",
+        "reference": "<SUMMARY>"
+    }]
+}

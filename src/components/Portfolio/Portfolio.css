@@ -1,0 +1,29 @@
+.Portfolio {
+    margin-top: 30px;
+}
+
+.portfolio-section-title {
+    padding-top: 30px;
+    margin-bottom: 30px;
+}
+
+#blog {
+    background: #f0f0f0;
+    margin-bottom: 40px;
+}
+
+#blog-header,
+#blog-detail {
+    text-align: left;
+}
+
+.portfolio-card {
+    margin: 35px 0;
+}
+
+hr.style-two {
+    width: 45%;
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
